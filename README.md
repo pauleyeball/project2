@@ -1,2 +1,3 @@
 # project2
-Second Test Repository
+A second test to ensure my notes are correct.
+Happy Github birthday to me.
